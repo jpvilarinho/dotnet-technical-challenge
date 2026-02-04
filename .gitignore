@@ -1,0 +1,33 @@
+## Build results
+bin/
+obj/
+
+## Rider / VS
+.vs/
+.idea/
+
+## User-specific
+*.user
+*.suo
+
+## Logs
+*.log
+
+## Coverage
+coverage/
+coverage.xml
+
+## SQLite
+*.db
+*.db-shm
+*.db-wal
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Publish
+publish/
+
+## Test results
+TestResults/
